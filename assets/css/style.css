@@ -7,7 +7,7 @@ body {
 }
 
 a {
-  color: #072f80;
+  color: #ffd584;
   text-decoration: none;
 }
 
@@ -530,14 +530,14 @@ h6 {
 
 .home .slide .content h3 {
   font-size: 3rem;
-  color: #000;
+  color: #fff;
   text-transform: capitalize;
   text-transform: uppercase;
 }
 
 .home .slide .content p {
-  font-size: 1.4rem;
-  color: #000;
+  font-size: 1.0rem;
+  color: #fff;
   line-height: 2;
   padding: 1rem 0;
 }
